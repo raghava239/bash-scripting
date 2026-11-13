@@ -1,0 +1,10 @@
+2026-11-09 10:15:22 INFO Application started
+2026-11-09 10:16:10 ERROR Connection timeout while connecting to DB
+2026-11-09 10:17:30 ERROR Connection lost to server
+2026-11-09 10:18:45 ERROR Failed to load configuration
+2026-11-09 10:19:12 INFO User logged in
+2026-11-09 10:20:15 ERROR Request timeout
+2026-11-09 10:21:30 ERROR Disk read error
+2026-11-09 10:22:45 ERROR Connection lost
+2026-11-09 10:23:50 INFO Application running
+2026-11-09 10:24:10 ERROR Database timeout
