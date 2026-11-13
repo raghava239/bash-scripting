@@ -1,0 +1,21 @@
+
+2026-11-13 08:00:01 INFO Application started
+2026-11-13 08:01:15 INFO Database connection established
+2026-11-13 08:02:20 ERROR Database connection timeout
+2026-11-13 08:03:10 INFO User login successful
+2026-11-13 08:04:25 ERROR Connection lost to database
+2026-11-13 08:05:30 WARNING High memory usage detected
+2026-11-13 08:06:45 ERROR Request timeout
+2026-11-13 08:07:50 INFO API request successful
+2026-11-13 08:08:15 ERROR Disk read error
+2026-11-13 08:09:20 INFO Application running
+2026-11-13 08:10:35 ERROR Connection timeout
+2026-11-13 08:11:40 WARNING CPU usage above 80%
+2026-11-13 08:12:55 ERROR Connection lost
+2026-11-13 08:13:10 INFO User logout successful
+2026-11-13 08:14:25 ERROR Database unavailable
+2026-11-13 08:15:30 INFO Application running
+2026-11-13 08:16:45 ERROR Request timeout
+2026-11-13 08:17:50 WARNING Memory usage critical
+2026-11-13 08:18:15 ERROR API connection failed
+2026-11-13 08:19:20 INFO Application stopped
