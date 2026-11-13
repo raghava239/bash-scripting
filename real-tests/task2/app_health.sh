@@ -9,6 +9,11 @@ if [ -f $log_file ]; then
    echo "log file exists"
    echo "All error counts are : $error_count "
    echo " all warning counts are : $warning_count "
+   if ( $last_5_errors -lt 5 ); then
+      echo "Last 5 errors are : $last_5_errors"
+   else 
+      echo "CRITICAL"
+   fi
    
 else 
   echo "file not exists"
