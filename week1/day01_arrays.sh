@@ -10,6 +10,6 @@ echo "Total number of servers are : ${#servers[@]}"
 
 
 for server in "${servers[@]}"; do
-   echo "Server name is : $server"
+   echo "Server $count : $server"
    ((count++))
 done
