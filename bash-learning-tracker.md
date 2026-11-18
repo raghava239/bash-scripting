@@ -16,7 +16,7 @@ Update the checkboxes as you complete each day.
 
 | Day | Topic                               | Practical Assignment                      | Status |
 | --- | ----------------------------------- | ----------------------------------------- | ------ |
-| 01  | Arrays and indexing                 | Create and iterate through a server array | [ ]    |
+| 01  | Arrays and indexing                 | Create and iterate through a server array | [*]    |
 | 02  | Arithmetic and counters             | Count successful and failed server checks | [ ]    |
 | 03  | Conditions and pattern matching     | Identify servers using name patterns      | [ ]    |
 | 04  | For loops                           | Check multiple servers using a loop       | [ ]    |
