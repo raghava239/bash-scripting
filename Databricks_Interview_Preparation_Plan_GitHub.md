@@ -139,21 +139,21 @@ priority.*
 
 ### SQL fundamentals
 
--   [ ] Understand SQL and relational databases
--   [ ] Understand databases, tables, rows and columns
--   [ ] `CREATE TABLE` and common data types
--   [ ] `INSERT INTO` --- single and multiple rows
--   [ ] `SELECT *` and selecting specific columns
--   [ ] `WHERE` and comparison operators
--   [ ] `UPDATE` one or multiple columns
--   [ ] `DELETE` records
--   [ ] `TRUNCATE` vs `DELETE` vs `DROP`
--   [ ] `ORDER BY ASC` and `DESC`
--   [ ] `AND`, `OR`, `IN`, `LIKE`, `BETWEEN`
--   [ ] `NULL` and `IS NULL`
--   [ ] `COUNT`, `SUM`, `AVG` and `GROUP BY`
--   [ ] `INNER JOIN` and `LEFT JOIN`
--   [ ] Solve 15 SQL queries independently
+-   [*] Understand SQL and relational databases
+-   [*] Understand databases, tables, rows and columns
+-   [*] `CREATE TABLE` and common data types
+-   [*] `INSERT INTO` --- single and multiple rows
+-   [*] `SELECT *` and selecting specific columns
+-   [*] `WHERE` and comparison operators
+-   [*] `UPDATE` one or multiple columns
+-   [*] `DELETE` records
+-   [*] `TRUNCATE` vs `DELETE` vs `DROP`
+-   [*] `ORDER BY ASC` and `DESC`
+-   [*] `AND`, `OR`, `IN`, `LIKE`, `BETWEEN`
+-   [*] `NULL` and `IS NULL`
+-   [*] `COUNT`, `SUM`, `AVG` and `GROUP BY`
+-   [*] `INNER JOIN` and `LEFT JOIN`
+-   [*] Solve 15 SQL queries independently
 
 ### Bash scripting
 
