@@ -37,16 +37,16 @@ The time allocation should be adjusted to the interview date and weakest areas. 
 ## 3. SQL
 
 ### 3.1 Foundations
-- [ ] Relational database concepts: database, table, row, column, primary key and foreign key
-- [ ] Data types and constraints
-- [ ] `CREATE TABLE`, `INSERT INTO`
-- [ ] `SELECT *` and selecting specific columns
-- [ ] `WHERE` and comparison operators
-- [ ] `AND`, `OR`, `NOT`
-- [ ] `IN`, `BETWEEN`, `LIKE`
-- [ ] `NULL`, `IS NULL`, `IS NOT NULL`
-- [ ] `UPDATE`, `DELETE`, `TRUNCATE`, `DROP`
-- [ ] `ORDER BY`, `LIMIT`, `DISTINCT`
+- [*] Relational database concepts: database, table, row, column, primary key and foreign key
+- [*] Data types and constraints
+- [*] `CREATE TABLE`, `INSERT INTO`
+- [*] `SELECT *` and selecting specific columns
+- [*] `WHERE` and comparison operators
+- [*] `AND`, `OR`, `NOT`
+- [*] `IN`, `BETWEEN`, `LIKE`
+- [*] `NULL`, `IS NULL`, `IS NOT NULL`
+- [*] `UPDATE`, `DELETE`, `TRUNCATE`, `DROP`
+- [*] `ORDER BY`, `LIMIT`, `DISTINCT`
 
 ### 3.2 Aggregation and joins
 - [ ] `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
